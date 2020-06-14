@@ -1,0 +1,55 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/parprog1-reductions_2.13-0.1.0-SNAPSHOT.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/Leaf$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/ParallelCountChangeRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/ParallelCountChangeRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/package$DefaultTaskScheduler$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/package$DefaultTaskScheduler$$anon$1.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/Node$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/LineOfSightInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/LineOfSightInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/ParallelParenthesesBalancingInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/ParallelParenthesesBalancingInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/Tree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/Tree.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/LineOfSight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/LineOfSight.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/LineOfSight$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/LineOfSight$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/package$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/package.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/package$TaskScheduler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/package$TaskScheduler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/ParallelCountChange.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/ParallelCountChange.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/ParallelParenthesesBalancing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/ParallelParenthesesBalancing.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/LineOfSightRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/LineOfSightRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/ParallelCountChange$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/ParallelCountChange$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/ParallelCountChangeInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/ParallelCountChangeInterface.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/LineOfSightRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/LineOfSightRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/ParallelParenthesesBalancing$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/ParallelParenthesesBalancing$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/Leaf.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/ParallelParenthesesBalancingRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/ParallelParenthesesBalancingRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/ParallelCountChangeRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/ParallelCountChangeRunner$.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/package$DefaultTaskScheduler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/package$DefaultTaskScheduler.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/Node.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/ParallelParenthesesBalancingRunner.class[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/classes/reductions/ParallelParenthesesBalancingRunner.class[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m

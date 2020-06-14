@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /Users/jiangfesam/Projects/Parallel Programming/kmeans/project/target/.sbt-compilation-infos/kmeans-compile/.sbt-idea-lock ...[0m
+[0m[[0m[33mwarn[0m] [0m[0m/Users/jiangfesam/Projects/Parallel Programming/kmeans/src/main/scala/kmeans/fun/IndexedColors.scala:177:46: method seq in trait Iterable is deprecated (since 2.13.0): Iterable.seq always returns the iterable itself[0m
+[0m[[0m[33mwarn[0m] [0m[0m        val snr_computed = computeSNR(points.seq, newMeans)[0m
+[0m[[0m[33mwarn[0m] [0m[0m                                             ^[0m
+[0m[[0m[33mwarn[0m] [0m[0mone warning found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /Users/jiangfesam/Projects/Parallel Programming/kmeans/project/target/.sbt-compilation-infos/kmeans-compile/.sbt-idea-lock.[0m

@@ -1,0 +1,13 @@
+[0m[[0m[0minfo[0m] [0m[0mPackaging /Users/jiangfesam/Projects/Parallel Programming/reductions/target/scala-2.13/parprog1-reductions_2.13-0.1.0-SNAPSHOT-sources.jar ...[0m
+[0m[[0m[0mdebug[0m] [0m[0mInput file mappings:[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/ParallelParenthesesBalancing.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/src/main/scala/reductions/ParallelParenthesesBalancing.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/ParallelCountChange.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/src/main/scala/reductions/ParallelCountChange.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/LineOfSight.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/src/main/scala/reductions/LineOfSight.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/src/main/scala/reductions/package.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	reductions/Interfaces.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0m	  /Users/jiangfesam/Projects/Parallel Programming/reductions/src/main/scala/reductions/Interfaces.scala[0m
+[0m[[0m[0minfo[0m] [0m[0mDone packaging.[0m
